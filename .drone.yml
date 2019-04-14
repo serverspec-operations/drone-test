@@ -6,4 +6,5 @@ steps:
   image: alpine
   commands:
   - echo hello
+  - exit 1
 
